@@ -1,0 +1,3 @@
+Lapiz,150,32
+Borratintas,310,23
+Sacapuntas,50,87Cartuchera,7896,5
